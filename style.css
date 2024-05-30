@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  font-family: "Gabarito", sans-serif;
+}
+
+/* .Card {
+  background-color: black;
+  color: white;
+  height: 350 px;
+  width: 150%;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.Card__C1 {
+  margin: 20px;
+  align-items: center;
+}
+
+.Card__C1__B2 {
+  padding: 3px;
+}
+
+.Card__C1 {
+  margin: 5px;
+}
+
+.Card__C1 h3 {
+  margin: 15px;
+}
+
+.Cords {
+  margin: 100px;
+  background-color: blue;
+  padding: 20px;
+  border-radius: 10px;
+  height: 170px;
+  flex-wrap: wrap;
+}
+
+.Cords__C2__C4 {
+  margin: 3px;
+}
+
+.Cards {
+  margin: 5 px;
+}
+
+.Cards__C2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cards__C2 h3 {
+  margin: 5px;
+}
+
+.Carde {
+  margin: 10px;
+}
+
+.Card {
+  margin: 20px;
+  display: flex;
+} */
+
+.Kards__K1 {
+  margin: 5px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  width: 250px;
+}
+
+.KORDS {
+  gap: 10px;
+  display: flex;
+  margin: 10px;
+  background-color: blue;
+}
+
+.Kards__K1__K2 p {
+  text-align: center;
+  margin: 5px;
+}
+
+.Kards__K1__K3 p {
+  text-align: center;
+  margin: 5px;
+}
+
+.Kards__K1__K4 {
+  margin: 5px;
+  text-align: center;
+}
+
+.Kards {
+  display: flex;
+  justify-content: center;
+}
+
+.Kards__K1__K4 p {
+  margin: 10px;
+}
+
+.plans {
+  text-align: center;
+  margin: 15px;
+}
+
+.any {
+  background-color: blue;
+  border-radius: 10px;
+  padding: 2px;
+  margin: 10px;
+}
